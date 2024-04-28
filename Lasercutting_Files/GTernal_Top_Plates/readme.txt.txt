@@ -1,0 +1,3 @@
+Included in the folder is an ImportCSVPoints folder. This is a modified add-in to fusion360 that allows points and labels to be pulled from a CSV file and imported directly into fusion. If more plates ever need to be generated, this probably vut the time by a factor of 5 to use. A sample CSV file is included with column 1 as X coords, column 2 as Y coords, and column 3 as label number.
+
+All numbers 1-40 are in the same fusion360 archive file as separate bodies. Body 41 is an extra blank one to duplicate if more are needed.
